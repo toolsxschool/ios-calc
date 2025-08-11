@@ -1,1 +1,1 @@
-this is the website https://www.ios-x-calc.vercel.app :=)
+this is the website https://ios-x-calc.vercel.app :=)
